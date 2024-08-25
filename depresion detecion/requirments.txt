@@ -1,0 +1,6 @@
+flask
+tensorflow
+numpy
+open-cv2
+matplotlib
+uuid
